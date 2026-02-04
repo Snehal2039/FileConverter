@@ -332,11 +332,11 @@ tbody tr:last-child {
 
 td {
     padding: 0.875rem 1rem;
-    color: #475569;
+    color: #0f172a;;
 }
 
 td.patient-id {
-    color: #0ea5e9;
+    color: #0f172a;
     font-weight: 500;
 }
 
@@ -345,7 +345,7 @@ td.patient-name {
 }
 
 td.volume {
-    color: #8b5cf6;
+    color: #0f172a;;
     font-weight: 500;
 }
 
